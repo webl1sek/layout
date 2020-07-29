@@ -1,0 +1,208 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.firstSection {
+    width: 940px;
+    height: 768px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 33px 0 32px 0;
+    font-size: 18px;
+    
+    line-height: 22px;
+}
+
+.firstSection a {
+    color: #828282;
+    text-decoration: none;
+}
+
+.firstSection a:hover {
+    color: #070707;
+    transition: 0.5s;
+}
+
+.shortInfo {
+    height: 188px;
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+    width: 940px;
+}
+
+.shortInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name {
+    font-size: 47.3392px;
+    
+    font-weight: 700;
+}
+
+.occupation {
+    font-size: 18px;
+  
+}
+
+.language {
+    transform: rotate(-90deg);
+    font-size: 16px;
+}
+
+.About {
+    background-color: #F6F6F6;
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    width: 940px;
+    height: 506px;
+    padding: 120px 0 107px 0;
+    font-size: 18px;
+    
+}
+
+.aboutmeTitle {
+   margin: 17px;
+   font-size: 34px;
+}
+
+.skills {
+    width: 940px;
+    height: 610px;
+    margin: 0 auto;
+    padding-top: 91px;
+    text-align: center;
+    
+}
+
+.skillstitle {
+    font-weight: 900;
+    font-size: 34px;
+    margin-bottom: 70px;
+
+}
+
+.iwispa {
+    font-size: 18px;
+}
+
+.SkillPrograms {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    
+}
+.icon {
+    margin-bottom: 26px;
+}
+
+.stars {
+    display: flex;
+    width: 166px;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.portfolio {  
+    width: 100%;
+    background-color: #F6F6F6;
+    height: 100%;
+}
+
+.portfolioTitle {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 112px;
+    padding-bottom: 47px;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.portfolio_box {
+    margin: 0 auto;
+}
+
+.portfolio_box a {
+    display: block;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 18px;
+    color: black;
+}
+
+.portfolio_image {
+    display: block;
+    padding-bottom: 45px;
+} 
+
+.aligncenter {
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+.contactsTitle {
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 114px;
+}
+
+.contactsText {
+    margin-top: 20px;
+}
+
+.contacts .button {
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 180px;
+    line-height: 42px;
+    background-color: black;
+    border-radius: 17px;
+    color: white;
+    text-align: center;
+}
+
+.socials {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 46px;
+}
+
+.socialsBox {
+    margin: 0 30px;
+    height: 40px;
+}
+
+.likemeon {
+    font-size: 14px;
+    color: #828282;
+    margin-bottom: 123px;
+}
+
+.creator {
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
